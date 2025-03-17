@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/dbf6e515-2c9a-46f7-9abc-f90e5ae92d98)![image](https://github.com/user-attachments/assets/f949e0c9-bfb5-40c8-b808-4550fe8763e4)# Convolutional Deep Neural Network for Image Classification
-
 ## AIM
 
 To Develop a convolutional deep neural network for image classification and to verify the response for new images.
